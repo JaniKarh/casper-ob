@@ -1,0 +1,26 @@
+b-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.ico
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+
+.idea/*
+*.iml
+projectFilesBackup
+
+.DS_Store
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
